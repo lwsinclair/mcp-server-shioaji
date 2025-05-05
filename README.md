@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sinotrade-mcp-server-shioaji-badge.png)](https://mseep.ai/app/sinotrade-mcp-server-shioaji)
+
 # MCP Server for Shioaji
 
 A Model Context Protocol (MCP) server that provides AI assistants with access to Shioaji trading API for the Taiwanese financial market.
